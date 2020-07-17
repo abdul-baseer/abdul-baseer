@@ -1,16 +1,23 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**abdul-baseer/abdul-baseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, this is **Abdul's Github** 👋
 
-Here are some ideas to get you started:
+## What do I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working as a Backend Engineer 🤓 with expertise in distributed systems and micro-services architecture.
+
+## I love to
+
+Talk about distributed systems and designing applications ❤️
+
+## Fun Fact
+
+Featured as a contributer in the 2020 GitHub Archive Program
+
+## Reach out to me
+
+On [linkedin/baseer621](https://www.linkedin.com/in/baseer621/)
+
+## Slogan
+
+<img width="200" src="https://github.com/abdul-baseer/abdul-baseer/blob/master/slogan.jpeg" />
