@@ -19,5 +19,3 @@ Featured as a contributer in the 2020 GitHub Archive Program
 On [linkedin/baseer621](https://www.linkedin.com/in/baseer621/)
 
 ## Slogan
-
-<img width=300" src="https://github.com/abdul-baseer/abdul-baseer/blob/master/slogan.png" />
