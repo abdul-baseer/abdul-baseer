@@ -20,4 +20,4 @@ On [linkedin/baseer621](https://www.linkedin.com/in/baseer621/)
 
 ## Slogan
 
-<img width="200" src="https://github.com/abdul-baseer/abdul-baseer/blob/master/slogan.jpeg" />
+<img width=300" src="https://github.com/abdul-baseer/abdul-baseer/blob/master/slogan.png" />
