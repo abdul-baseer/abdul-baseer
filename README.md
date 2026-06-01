@@ -32,13 +32,6 @@ Java microservices, cloud infrastructure, and fintech — across the full softwa
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-baseer&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-baseer&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baseer621)
